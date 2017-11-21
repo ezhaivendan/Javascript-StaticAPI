@@ -1,0 +1,32 @@
+html, body {
+	margin: 0
+}
+.container {
+	width: 1024px;
+	margin: 0 auto;
+	font-size: 13px;
+	font-family: arial;
+	font-weight: normal;
+}
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+li {
+    width: 48%;
+    float: left;
+    margin: 1%;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 20px;
+}
+img {
+    float: left;
+    margin-right: 20px;
+}
+p {
+    text-transform: capitalize;
+}
+a {
+	
+}
